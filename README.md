@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm Aiden, a first-year Computer Engineering student at UCLA, the CTO and Co-Founder [@staynomad](https://vhomesgroup.com/), and a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/). I'm passionate about space technology and entreprenuership, and I have experience leading and building products from the ground up. Feel free to contact me [here](https://linktr.ee/aidenszeto)!
 
 
-I’m currently working on:
-- 🖥️ [cppcs](https://github.com/aidenszeto/cppcs), a command line interface for C++ unit testing and simplified scripting
-- 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), a pair of satellites measuring Electromagnetic Ion Cyclotron waves in space
-- 🏠 [NomΛd](https://vhomesgroup.com/), a prop-tech startup disrupting the homesharing industry
+I’m currently working on:  
+    <p> &#9671; 🖥️ [cppcs](https://github.com/aidenszeto/cppcs), a light-weight command line interface for C++ unit testing and simplified scripting  </p>
+    <p> &#9671; 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), a pair of 3U cubesat satellites measuring Electromagnetic Ion Cyclotron waves in space  </p>
+    <p> &#9671; 🏠 [NomΛd](https://vhomesgroup.com/), a prop-tech startup SaaS platform disrupting the homesharing industry  </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenszeto&layout=compact&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
