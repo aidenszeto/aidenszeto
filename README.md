@@ -23,5 +23,3 @@ I’m currently working on:
 &nbsp;&nbsp;&nbsp;&nbsp;&#9671; 🏠 [NomΛd](https://vhomesgroup.com/), a prop-tech startup SaaS platform disrupting the homesharing industry  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aidenszeto/), my [personal portfolio](https://www.linkedin.com/in/aidenszeto/), or you can [email me](aidenszeto@g.ucla.edu).  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenszeto&layout=compact&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
