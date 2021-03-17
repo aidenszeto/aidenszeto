@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Aiden, a first-year Computer Engineering student at UCLA, the CTO and Co-Founder [@staynomad](https://vhomesgroup.com/), and a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/). I'm passionate about space technology and entreprenuership, and I have experience leading and building products from the ground up. Feel free to contact me [here](https://linktr.ee/aidenszeto)!
+
+
+I’m currently working on:
+- 🖥️ [cppcs](https://github.com/aidenszeto/cppcs), a command line interface for C++ unit testing and simplified scripting
+- 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), a pair of satellites measuring Electromagnetic Ion Cyclotron waves in space
+- 🏠 [NomΛd](https://vhomesgroup.com/), a prop-tech startup disrupting the homesharing industry
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenszeto&layout=compact&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
