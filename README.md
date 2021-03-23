@@ -20,6 +20,6 @@ I'm Aiden, a first-year Computer Engineering student at UCLA, the CTO and Co-Fou
 I’m currently working on:  
 - 🖥️ [cppcs](https://github.com/aidenszeto/cppcs), a light-weight command line interface for C++ unit testing and simplified scripting  
 - 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), a pair of 3U cubesat satellites measuring Electromagnetic Ion Cyclotron waves in space  
-- 🏠 [NomΛd](https://vhomesgroup.com/), a prop-tech startup SaaS platform disrupting the homesharing industry  
+- 🏠 [NomΛd](https://visitnomad.com/), a prop-tech startup SaaS platform disrupting the homesharing industry  
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aidenszeto/), my [personal portfolio](https://www.linkedin.com/in/aidenszeto/), or you can [email me](aidenszeto@g.ucla.edu).  
