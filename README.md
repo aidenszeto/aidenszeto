@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Aiden, a first-year Computer Engineering student at UCLA, the CTO and Co-Founder [@staynomad](https://visitnomad.com/), a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/), and a SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team. I'm passionate about space technology, embedded systems and entrepreneurship, and I have extensive experience leading and building products from the ground up. Feel free to contact me [here](mailto:aidenszeto@g.ucla.edu)!  
+I'm Aiden, a second-year Computer Engineering student at UCLA, the CTO and Co-Founder [@staynomad](https://visitnomad.com/), a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/), and a SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team. I'm passionate about space technology, embedded systems and entrepreneurship, and I have extensive experience leading and building products from the ground up. Feel free to contact me [here](mailto:aidenszeto@g.ucla.edu)!  
   
 I’m currently working on:  
 - 🖥️ [cppcs](https://github.com/aidenszeto/cppcs), a light-weight command line interface for C++ unit testing and simplified scripting  
