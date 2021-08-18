@@ -20,7 +20,7 @@ I'm Aiden, a second-year Computer Engineering student at UCLA. I'm passionate ab
 Currently, I'm a SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team, the CTO and Co-Founder of [Nomad](https://visitnomad.com/), a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/), and an incoming SWE Intern at [NASA](https://www.nasa.gov/). I am a former MLH Fellow and Undergraduate Researcher at the UCLA Micro and Nano Manufacturing Lab.
   
 I’m currently working on:  
-- 🍐 [PearPy](https://pypi.org/project/pearpy/), a Python package that simplifies process parallelization across multiple CPU threads
+- 🍐 [Pearpy](https://pypi.org/project/pearpy/), a Python package that simplifies process parallelization across multiple CPU threads
 - 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), a pair of 3U cubesat satellites measuring Electromagnetic Ion Cyclotron waves in low earth orbit 
 - 🏠 [Nomad](https://visitnomad.com/), a prop-tech startup SaaS platform disrupting the homesharing industry  
 - 🚗 [Fortellis](https://fortellis.io/), a automotive APP/API development network and marketplace built by CDK Global
