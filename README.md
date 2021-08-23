@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 I'm Aiden, a second-year Computer Engineering student at UCLA. I'm passionate about space technology, embedded systems and entrepreneurship, and I have extensive experience leading and building products from the ground up. 
 
-Currently, I'm a SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team, the CTO and Co-Founder of [Nomad](https://visitnomad.com/), a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/), and an incoming SWE Intern at [NASA](https://www.nasa.gov/). I am a former MLH Fellow and Undergraduate Researcher at the UCLA Micro and Nano Manufacturing Lab.
+Currently, I'm a SWE Intern at [NASA](https://www.nasa.gov/) on the command and data handling team for the Artemis avoinics division, the CTO and Co-Founder of [Nomad](https://visitnomad.com/), and a software developer for [ELFIN Cubesat](https://elfin.igpp.ucla.edu/). I am a former SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team, MLH Fellow, and Undergraduate Researcher at the UCLA Micro and Nano Manufacturing Lab.
   
 I’m currently working on:  
 - 🍐 [Pearpy](https://pypi.org/project/pearpy/), a Python package that simplifies process parallelization across multiple CPU threads
 - 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), a pair of 3U cubesat satellites measuring Electromagnetic Ion Cyclotron waves in low earth orbit 
 - 🏠 [Nomad](https://visitnomad.com/), a prop-tech startup SaaS platform disrupting the homesharing industry  
-- 🚗 [Fortellis](https://fortellis.io/), a automotive APP/API development network and marketplace built by CDK Global
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aidenszeto/), my [personal portfolio](https://aidenszeto.me/), or you can [email me](mailto:aidenszeto@g.ucla.edu). Thanks! 
