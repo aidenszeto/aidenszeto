@@ -2,7 +2,7 @@
 
 I'm Aiden, a Computer Engineering student at UCLA. I'm passionate about space technology, embedded systems and entrepreneurship, and I have extensive experience leading and building products from the ground up. 
 
-Currently, I'm a SWE Intern at [NASA](https://www.nasa.gov/) on the command and data handling team for the Artemis avoinics division, the CTO and Co-Founder of [Nomad](https://visitnomad.com/), and a software developer for [ELFIN](https://elfin.igpp.ucla.edu/). I am a former SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team, [MLH Fellow](https://fellowship.mlh.io/), and Undergraduate Researcher at the [UCLA Micro and Nano Manufacturing Lab](https://www.cjkimlab.ucla.edu/).
+Currently, I'm a SWE Intern at [NASA](https://www.nasa.gov/) on the command and data handling team for the Artemis avoinics division, the CTO and Co-Founder of [Nomad](https://visitnomad.com/), and the flight software lead for [ELFIN](https://elfin.igpp.ucla.edu/). I am a former SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team, [MLH Fellow](https://fellowship.mlh.io/), and Undergraduate Researcher at the [UCLA Micro and Nano Manufacturing Lab](https://www.cjkimlab.ucla.edu/).
   
 I’m currently working on:  
 - 🌕 [Gateway](https://www.nasa.gov/gateway), NASA's Moon outpost that will support Artemis missions and deep space exploration
