@@ -2,9 +2,9 @@
 
 I'm Aiden, a Computer Engineering student at UCLA. I'm passionate about space technology, embedded systems and entrepreneurship, and I have extensive experience leading and building products from the ground up. 
 
-Currently, I'm a SWE Intern at [NASA](https://www.nasa.gov/) on the command and data handling team for the Artemis avoinics division, the CTO and Co-Founder of [Nomad](https://visitnomad.com/), and the flight software lead for [ELFIN](https://elfin.igpp.ucla.edu/). I am a former SWE Intern at [CDK Global](https://www.cdkglobal.com/us) on the Fortellis team, [MLH Fellow](https://fellowship.mlh.io/), and Undergraduate Researcher at the [UCLA Micro and Nano Manufacturing Lab](https://www.cjkimlab.ucla.edu/).
+Most recently, I was a SWE Intern at NASA on the command and data handling team for the Artemis avoinics division, where I worked on time-triggered ethernet for the HALO [Gateway](https://www.nasa.gov/gateway/overview) module. I am currently the CTO of [Nomad](https://visitnomad.com/) and dev lead for [ELFIN](https://elfin.igpp.ucla.edu/), and my prior experiences include a SWE Internship at CDK Global, MLH Fellowship, and Undergraduate Research at the [UCLA Micro and Nano Manufacturing Lab](https://www.cjkimlab.ucla.edu/).
   
-I’m currently working on:  
+Some of my work include:  
 - 🌕 [Gateway](https://www.nasa.gov/gateway), NASA's Moon outpost that will support Artemis missions and deep space exploration
 - 🍐 [Pearpy](https://pypi.org/project/pearpy/), a Python package that simplifies process parallelization across multiple CPU threads
 - 🛰️ [ELFIN](https://elfin.igpp.ucla.edu/), UCLA's award winning 3U cubesat satellites measuring electron scattering in low earth orbit 
