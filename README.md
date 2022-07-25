@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aiden, a Computer Engineering student at UCLA. I'm passionate about space technology, embedded systems and entrepreneurship, and I have experience leading and building products from the ground up. This summer I will be joining Meta as a Software Engineer Intern.
+I'm Aiden, a Computer Engineering student at UCLA. I'm passionate about space technology, embedded systems and entrepreneurship, and I have experience leading and building products from the ground up. Currently, I'm a Software Engineer Intern at Meta working on Privacy Infrastructure.
 
 Most recently, I was a SWE Intern at NASA on the command and data handling team for the Artemis avoinics division, where I worked on time-triggered ethernet for the [Gateway](https://www.nasa.gov/gateway/overview) HALO module. I am currently the dev lead for [ELFIN](https://elfin.igpp.ucla.edu/), and my prior experiences include a SWE Internship at CDK Global, MLH Fellowship, [Undergraduate Research](https://www.cjkimlab.ucla.edu/) at the UCLA, and Co-Founding [Nomad](https://www.linkedin.com/company/vhomesgroup) (successfully exited).
   
